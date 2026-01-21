@@ -15,11 +15,53 @@ This project was built as a **hackathon MVP** using fully offline heuristics and
 
 Follow these steps to run the **AI-Powered Dark Pattern Detector** Chrome extension locally:
 
-### 1️⃣ Clone the Repository
-First, clone the repository to your local machine:
-``bash
+Step 1: Get the Extension Code
+
+Either download the ZIP from your GitHub repository
+
+Or clone the repo:
+
 git clone https://github.com/yourusername/AI-Dark-Pattern-Detector.git
 
+
+Make sure you have all files: manifest.json, content.js, popup.html, README.md.
+
+Step 2: Open Chrome Extensions
+
+Open Google Chrome
+
+Go to:
+
+chrome://extensions/
+
+
+Enable Developer Mode (toggle switch on the top-right)
+
+Step 3: Load the Extension
+
+Click Load unpacked
+
+Select the folder containing your extension (not individual files, the full project folder)
+
+Chrome will load the extension and it will appear in the extensions list
+
+Step 4: Test the Extension
+
+Open any website with cookie banners, pop-ups, or consent forms
+
+Wait 1–3 seconds
+
+You should see the warning box appear in the bottom-right corner
+
+Example sites: news websites, shopping sites, sites asking “Accept All Cookies”.
+
+Step 5: Using the Extension
+
+Click Dismiss on the warning box to remove it
+
+The extension continues scanning the page in real-time
+
+No user data is sent anywhere; everything runs locally
 ## Features
 
 - Detects common dark patterns in consent banners, pop-ups, and overlays:
