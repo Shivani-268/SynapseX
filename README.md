@@ -17,8 +17,7 @@ Follow these steps to run the **AI-Powered Dark Pattern Detector** Chrome extens
 
 ### 1️⃣ Clone the Repository
 First, clone the repository to your local machine:
-
-```bash
+``bash
 git clone https://github.com/yourusername/AI-Dark-Pattern-Detector.git
 
 ## Features
