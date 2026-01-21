@@ -17,11 +17,11 @@ Follow these steps to run the **AI-Powered Dark Pattern Detector** Chrome extens
 
 Step 1: Get the Extension Code
 
-Either download the ZIP from your GitHub repository
+Either download the ZIP from the GitHub repository
 
 Or clone the repo:
 
-git clone https://github.com/yourusername/AI-Dark-Pattern-Detector.git
+git clone https://github.com/Shivani-268/SynapseX.git
 
 
 Make sure you have all files: manifest.json, content.js, popup.html, README.md.
