@@ -27,6 +27,15 @@ This project was built as a **hackathon MVP** using fully offline heuristics and
 - **Extensible** for future AI/ML integration (local transformers, compliance dashboards)
 
 ---
+## Setup / Installation
+
+Follow these steps to run the **AI-Powered Dark Pattern Detector** Chrome extension locally:
+
+### 1️⃣ Clone the Repository
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/AI-Dark-Pattern-Detector.git
 
 ## Demo
 
